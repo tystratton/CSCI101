@@ -9,6 +9,9 @@
         "iosfwd": "cpp",
         "random": "cpp",
         "typeinfo": "cpp",
-        "fstream": "cpp"
+        "fstream": "cpp",
+        "xstring": "cpp",
+        "istream": "cpp",
+        "ios": "cpp"
     }
 }
